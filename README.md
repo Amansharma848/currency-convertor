@@ -1,11 +1,14 @@
 # currency-convertor
 A Currency Converter is a web app built with HTML, CSS, and JavaScript that converts one currency to another using real-time exchange rates from an API. Users enter an amount, select currencies, and view the converted value instantly on a clean, responsive interface.
 Currency Converter – Detailed Overview
+
+
+
 ✅ What is a Currency Converter?
 A Currency Converter is a web application that allows users to convert an amount from one currency into another. It uses real-time exchange rates fetched from an external API to ensure accurate and up-to-date conversions.
 
-🔧 Technologies Used:
-HTML (HyperText Markup Language)
+**🔧 Technologies Used:
+HTML (HyperText Markup Language)**
 
 Builds the structure of the webpage.
 
@@ -25,8 +28,8 @@ Fetches exchange rates from an API.
 
 Performs the conversion and updates the result dynamically on the page.
 
-🌐 How It Works:
-User enters an amount (e.g., 100).
+**🌐 How It Works:
+User enters an amount (e.g., 100).**
 
 Selects the base currency (e.g., USD).
 
@@ -39,18 +42,18 @@ JavaScript fetches current exchange rates from an API like ExchangeRate API.
 The input amount is multiplied by the correct rate.
 
 The converted value is displayed on the screen.
-
-🖥️ Example:
-Input: 100 USD
-
+**
+**🖥️ Example:
+Input: 100 USD**
+**
 Selected Target: INR
 
 Live Rate: 1 USD = 83 INR
 
 Result: 100 × 83 = 8300 INR
 
-🎯 Features:
-Real-time conversion using APIs
+**🎯 Features:
+Real-time conversion using APIs**
 
 Easy-to-use interface
 
@@ -59,10 +62,10 @@ Supports multiple currencies
 Instant display of results
 
 Responsive design for all devices
-
-📘 Learning Outcomes:
-Use of HTML/CSS/JavaScript in real projects
-
+**
+**📘 Learn
+Use of HTML/CSS/JavaScript in real projects****
+ing Outcomes:
 API usage and JSON handling
 
 DOM manipulation
