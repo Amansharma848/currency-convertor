@@ -234,6 +234,6 @@ function getExchangeRate() {
       exchangeRateTxt.innerText = `${amountVal} ${fromCurrency.value} = ${totalExRate} ${toCurrency.value}`;
     })
     .catch(() => {
-      exchangeRateTxt.innerText = "Something went wrong";
+      exchangeRateTxt.innerText = "Something went to wrong";
     });
 }
